@@ -87,6 +87,3 @@ Char-Level: 0.44
 - Padding tracked and removed
 - Encodes to and from binary file
 
-## License
-
-MIT License
